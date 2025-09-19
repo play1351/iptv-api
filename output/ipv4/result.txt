@@ -1,23 +1,16 @@
 🕘️更新时间,#genre#
-2025-09-19 18:43:05,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8
+2025-09-20 06:33:27,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 
 📺央视频道,#genre#
-CCTV-2,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8
-CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
-CCTV-12,http://111.227.196.164:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://223.167.230.154:4022/rtp/239.45.0.3:5140
-河南卫视,http://180.165.6.184:4022/rtp/239.45.0.3:5140
 河南卫视,http://180.165.1.43:9898/rtp/239.45.0.3:5140
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
