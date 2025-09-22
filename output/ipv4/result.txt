@@ -1,11 +1,25 @@
 🕘️更新时间,#genre#
-2025-09-22 06:34:37,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+2025-09-22 18:43:46,http://ygbh.site/php/bfgd.php?id=063
 
 📺央视频道,#genre#
+CCTV-4,http://ygbh.site/php/bfgd.php?id=063
+CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
+CCTV-6,http://ygbh.site/php/bfgd.php?id=065
+CCTV-6,http://113.15.109.216:59901/tsfile/live/0006_1.m3u8
+CCTV-7,http://ygbh.site/php/bfgd.php?id=127
+CCTV-9,http://ygbh.site/php/bfgd.php?id=128
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+CCTV-9,http://113.15.109.216:59901/tsfile/live/0009_1.m3u8
+CCTV-10,http://ygbh.site/php/bfgd.php?id=129
+CCTV-11,http://ygbh.site/php/bfgd.php?id=130
+CCTV-12,http://ygbh.site/php/bfgd.php?id=131
+CCTV-12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://ygbh.site/php/bfgd.php?id=132
+CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afcc30c88250b45e02c3ee3918e37e0dd8ac82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
