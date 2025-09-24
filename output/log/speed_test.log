@@ -1,9 +1,5 @@
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 10 ms, Speed: 10.35 M/s, Resolution: None
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 33 ms, Speed: 34.95 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://lxajh.top/tv/hn.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv17, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 731 ms, Speed: 2.86 M/s, Resolution: None
-Name: CCTV-9, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv9, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 2584 ms, Speed: 1.67 M/s, Resolution: None
-Name: CCTV-2, URL: http://113.26.202.52:1299/tsfile/live/0002_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 电信, Date: None, Delay: 10850 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林-辽源, ISP: 电信, Date: None, Delay: 10346 ms, Speed: 0.29 M/s, Resolution: None
-Name: CCTV-5, URL: http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-德州, ISP: 联通, Date: None, Delay: 10500 ms, Speed: 0.24 M/s, Resolution: None
-Name: 广东卫视, URL: http://113.15.109.216:59901/tsfile/live/0125_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-河池, ISP: 电信, Date: None, Delay: 4880 ms, Speed: 0.00 M/s, Resolution: None
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 608 ms, Speed: 1.50 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 153 ms, Speed: 0.63 M/s, Resolution: None
+Name: CCTV-9, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv9, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 1340 ms, Speed: 2.34 M/s, Resolution: None
+Name: CCTV-17, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv17, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 2291 ms, Speed: 1.73 M/s, Resolution: None
+Name: 广东卫视, URL: http://113.15.109.216:59901/tsfile/live/0125_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-河池, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
