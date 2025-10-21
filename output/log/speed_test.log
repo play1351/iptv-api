@@ -1,2 +1,3 @@
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 7 ms, Speed: 14.38 M/s, Resolution: None
-Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1557 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 8 ms, Speed: 14.42 M/s, Resolution: None
+Name: 北京卫视, URL: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760876105&sign=a477cc462a76be885dab5120dc9b2c47, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 中国电信(奇虎360科技有限公司), Date: None, Delay: 10542 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1464 ms, Speed: 0.01 M/s, Resolution: 1920x1080
