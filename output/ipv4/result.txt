@@ -1,29 +1,20 @@
 🕘️更新时间,#genre#
-2025-11-19 06:20:09,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-19 18:22:36,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
-CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
-CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
 CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
-CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
-CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
-CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
-CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
-CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
+CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
-CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
+CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
 CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=cq
-CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
-CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 
 📡卫视频道,#genre#
