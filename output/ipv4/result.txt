@@ -1,19 +1,14 @@
 🕘️更新时间,#genre#
-2025-11-27 18:25:16,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-11-28 06:20:37,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
-CCTV-7,http://60.13.52.236:65500/newlive/live/hls/7/live.m3u8
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
-CCTV-11,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226914/1.m3u8
-CCTV-13,http://60.13.52.236:65500/newlive/live/hls/13/live.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140
 CCTV-15,http://1.58.246.115:4001/rtp/229.58.190.127:5000
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-广西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226915/1.m3u8
