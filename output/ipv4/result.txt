@@ -1,22 +1,13 @@
 🕘️更新时间,#genre#
-2025-11-28 18:22:38,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+2025-11-29 06:18:36,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
-CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
-CCTV-3,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-6,http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
-CCTV-7,http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
-CCTV-8,http://120.40.39.246:352/newlive/live/hls/9/live.m3u8
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
-CCTV-9,http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://60.13.52.236:65500/newlive/live/hls/26/live.m3u8
-黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8
-河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
