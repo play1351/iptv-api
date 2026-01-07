@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-07 06:21:25,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
+2026-01-07 18:25:01,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
