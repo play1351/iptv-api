@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-16 19:02:16,http://198.204.228.26/live/cctv3hd.m3u8
+2026-05-17 06:43:46,http://198.204.228.26/live/cctv3hd.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://198.204.228.26/live/cctv3hd.m3u8
@@ -12,7 +12,6 @@ CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=5
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-河北卫视,http://218.29.147.237:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://125.42.150.192:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
