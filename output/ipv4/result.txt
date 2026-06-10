@@ -1,35 +1,31 @@
 🕘️更新时间,#genre#
-2026-06-10 07:17:32,http://www.negative.top:50000/rtp/233.50.200.101:5140
+2026-06-10 20:56:55,http://www.negative.top:50000/rtp/233.50.200.101:5140
 
 📺央视频道,#genre#
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
-CCTV-4,http://125.43.244.34:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-13,http://207.56.13.146:81/cdnlive/cctv13.m3u8
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
-CCTV-15,http://home.scanflove.com:7788/rtp/235.254.198.11:1320
-CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
-北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-重庆卫视,http://101.66.195.125:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
+东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
-贵州卫视,http://125.43.244.34:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://101.66.195.125:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
