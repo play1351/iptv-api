@@ -1,25 +1,36 @@
 🕘️更新时间,#genre#
-2026-06-16 07:45:06,http://www.negative.top:50000/rtp/233.50.200.101:5140
+2026-06-16 23:10:26,http://173.208.212.130:8181/720p/cctv2.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://173.208.212.130:8181/720p/cctv2.m3u8
+CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
+CCTV-11,http://173.208.212.130:8181/720p/cctv11.m3u8
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
+CCTV-12,http://173.208.212.130:8181/720p/cctv12.m3u8
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
+CCTV-14,http://173.208.212.130:8181/720p/cctv14.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
+安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
+安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
+东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
+广西卫视,http://home.scanflove.com:7788/rtp/235.254.198.38:1428
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
