@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-26 20:11:09,http://www.negative.top:50000/rtp/233.50.200.101:5140
+2026-06-27 07:05:20,http://www.negative.top:50000/rtp/233.50.200.101:5140
 
 📺央视频道,#genre#
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
@@ -17,8 +17,8 @@ CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
+贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
