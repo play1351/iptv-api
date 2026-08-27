@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-27 10:57:47,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+2026-08-28 04:12:07,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 📡卫视频道,#genre#
