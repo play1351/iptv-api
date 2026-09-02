@@ -1,10 +1,19 @@
 🕘️更新时间,#genre#
-2026-09-02 22:06:33,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+2026-09-03 07:55:08,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+CCTV-14,http://123.130.84.106:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+黑龙江卫视,http://101.66.194.161:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.199.17:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.194.161:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.199.17:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.194.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.194.161:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.199.17:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.199.17:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
