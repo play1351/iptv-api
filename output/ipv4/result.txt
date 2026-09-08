@@ -1,19 +1,15 @@
 🕘️更新时间,#genre#
-2026-09-07 23:32:29,http://221.13.235.175:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-08 08:02:02,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://221.13.235.175:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://221.13.235.175:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://221.13.235.175:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://221.13.235.175:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://221.13.235.175:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-10,http://221.13.235.175:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://221.13.235.175:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://221.13.235.175:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+广西卫视,http://101.66.198.251:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.198.251:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河南卫视,http://221.13.235.175:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://101.66.198.251:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.198.251:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.198.251:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
