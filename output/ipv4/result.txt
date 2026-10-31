@@ -1,10 +1,14 @@
 🕘️更新时间,#genre#
-2026-10-31 09:26:31,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+2026-10-31 23:37:09,http://45.192.97.170:8880/play/258.m3u8
 
 📺央视频道,#genre#
+CCTV-4,http://45.192.97.170:8880/play/258.m3u8
+CCTV-5,http://45.192.97.170:8880/play/259.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3a00fc0d3fc15e9259b00428ba25249c
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
